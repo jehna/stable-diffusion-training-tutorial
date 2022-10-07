@@ -20,7 +20,7 @@ run if you have a new account. You'll need to follow their instructions to
 request a limit increase.
 
 On my own testing it took 2 minutes for GCP to increase my limit from 0 to 1,
-while it took 7 days to do the smae for AWS
+while it took 7 days to do the same for AWS
 
 ## Licensing
 
