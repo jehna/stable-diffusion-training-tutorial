@@ -1,3 +1,5 @@
+![Logo](logo.png)
+
 # Stable Diffusion cloud training tutorial
 > Train Stable Diffusion (textual inversion) with your own images
 
